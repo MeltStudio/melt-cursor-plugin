@@ -5,6 +5,7 @@
   "description": "Melt Studio's development pipeline, audits, PM suite and company checks, loaded from the meltctl connector. Requires an @meltstudio.co login.",
   "author": { "name": "Melt Studio" },
   "category": "developer-tools",
+  "logo": "assets/logo.svg",
   "keywords": ["melt", "meltctl", "skills", "mcp", "audits", "project-management"],
   "skills": "./skills/",
   "mcpServers": "./mcp.json"

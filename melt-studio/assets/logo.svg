@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="512" height="512" shape-rendering="crispEdges">
+  <rect width="96" height="96" rx="16" fill="#F1F5F9"/>
+  <g transform="translate(16 16)">
+  <!-- 16x16 pixel grid, each pixel = 4x4 svg units. Palette: 5 colors. -->
+  <!-- Concept: a teal bot face (M-shaped silhouette) with melted drips below. -->
+
+  <!-- row 1 (y=0)  -->
+  <rect x="12" y="0" width="40" height="4" fill="#0F766E"/>
+
+  <!-- row 2 (y=4) -->
+  <rect x="8"  y="4"  width="4" height="4" fill="#0F766E"/>
+  <rect x="12" y="4"  width="40" height="4" fill="#5EEAD4"/>
+  <rect x="52" y="4"  width="4" height="4" fill="#0F766E"/>
+
+  <!-- row 3 (y=8) -->
+  <rect x="4"  y="8"  width="4" height="4" fill="#0F766E"/>
+  <rect x="8"  y="8"  width="48" height="4" fill="#5EEAD4"/>
+  <rect x="56" y="8"  width="4" height="4" fill="#0F766E"/>
+  <rect x="16" y="8"  width="4" height="4" fill="#FFFFFF"/>
+  <rect x="44" y="8"  width="4" height="4" fill="#FFFFFF"/>
+
+  <!-- row 4 (y=12) — eyes -->
+  <rect x="4"  y="12" width="4" height="4" fill="#0F766E"/>
+  <rect x="8"  y="12" width="48" height="4" fill="#5EEAD4"/>
+  <rect x="56" y="12" width="4" height="4" fill="#0F766E"/>
+  <rect x="16" y="12" width="8" height="4" fill="#0F172A"/>
+  <rect x="40" y="12" width="8" height="4" fill="#0F172A"/>
+
+  <!-- row 5 (y=16) — eye bottom -->
+  <rect x="4"  y="16" width="4" height="4" fill="#0F766E"/>
+  <rect x="8"  y="16" width="48" height="4" fill="#5EEAD4"/>
+  <rect x="56" y="16" width="4" height="4" fill="#0F766E"/>
+  <rect x="16" y="16" width="4" height="4" fill="#0F172A"/>
+  <rect x="44" y="16" width="4" height="4" fill="#0F172A"/>
+
+  <!-- row 6 (y=20) -->
+  <rect x="4"  y="20" width="4" height="4" fill="#0F766E"/>
+  <rect x="8"  y="20" width="48" height="4" fill="#5EEAD4"/>
+  <rect x="56" y="20" width="4" height="4" fill="#0F766E"/>
+
+  <!-- row 7 (y=24) — smile (chevron-cursor-like) -->
+  <rect x="4"  y="24" width="4" height="4" fill="#0F766E"/>
+  <rect x="8"  y="24" width="48" height="4" fill="#5EEAD4"/>
+  <rect x="56" y="24" width="4" height="4" fill="#0F766E"/>
+  <rect x="20" y="24" width="4" height="4" fill="#0F172A"/>
+  <rect x="40" y="24" width="4" height="4" fill="#0F172A"/>
+
+  <!-- row 8 (y=28) — smile bottom (looks like a `>` / cursor) -->
+  <rect x="4"  y="28" width="4" height="4" fill="#0F766E"/>
+  <rect x="8"  y="28" width="48" height="4" fill="#5EEAD4"/>
+  <rect x="56" y="28" width="4" height="4" fill="#0F766E"/>
+  <rect x="24" y="28" width="16" height="4" fill="#0F172A"/>
+
+  <!-- row 9 (y=32) -->
+  <rect x="4"  y="32" width="4" height="4" fill="#0F766E"/>
+  <rect x="8"  y="32" width="48" height="4" fill="#5EEAD4"/>
+  <rect x="56" y="32" width="4" height="4" fill="#0F766E"/>
+
+  <!-- row 10 (y=36) — body bottom border begins to melt -->
+  <rect x="8"  y="36" width="4" height="4" fill="#0F766E"/>
+  <rect x="12" y="36" width="40" height="4" fill="#5EEAD4"/>
+  <rect x="52" y="36" width="4" height="4" fill="#0F766E"/>
+
+  <!-- row 11 (y=40) — drips -->
+  <rect x="12" y="40" width="4" height="4" fill="#0F766E"/>
+  <rect x="16" y="40" width="4" height="4" fill="#5EEAD4"/>
+  <rect x="20" y="40" width="4" height="4" fill="#0F766E"/>
+
+  <rect x="28" y="40" width="4" height="4" fill="#0F766E"/>
+  <rect x="32" y="40" width="4" height="4" fill="#5EEAD4"/>
+  <rect x="36" y="40" width="4" height="4" fill="#0F766E"/>
+
+  <rect x="44" y="40" width="4" height="4" fill="#0F766E"/>
+  <rect x="48" y="40" width="4" height="4" fill="#5EEAD4"/>
+  <rect x="52" y="40" width="4" height="4" fill="#0F766E"/>
+
+  <!-- row 12 (y=44) — drip middles -->
+  <rect x="16" y="44" width="4" height="4" fill="#5EEAD4"/>
+  <rect x="32" y="44" width="4" height="4" fill="#5EEAD4"/>
+  <rect x="48" y="44" width="4" height="4" fill="#5EEAD4"/>
+
+  <!-- row 13 (y=48) — drip tips -->
+  <rect x="16" y="48" width="4" height="4" fill="#0D9488"/>
+  <rect x="32" y="48" width="4" height="4" fill="#0D9488"/>
+  <rect x="48" y="48" width="4" height="4" fill="#0D9488"/>
+
+  <!-- row 14 (y=52) — final drop bits -->
+  <rect x="32" y="52" width="4" height="4" fill="#0D9488"/>
+</g>
+</svg>
