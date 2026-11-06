@@ -1,0 +1,12 @@
+{
+  "name": "melt-studio",
+  "owner": { "name": "Melt Studio", "email": "manuel@meltstudio.co" },
+  "metadata": { "description": "Melt Studio's plugins for Cursor." },
+  "plugins": [
+    {
+      "name": "melt-studio",
+      "source": "melt-studio",
+      "description": "Melt Studio's development pipeline, audits, PM suite and company checks, loaded from the meltctl connector. Requires an @meltstudio.co login."
+    }
+  ]
+}

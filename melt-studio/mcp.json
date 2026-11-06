@@ -1,0 +1,1 @@
+{ "mcpServers": { "meltctl": { "type": "http", "url": "https://api.meltctl.meltstudio.co/mcp" } } }
