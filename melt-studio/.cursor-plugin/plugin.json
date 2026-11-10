@@ -1,7 +1,7 @@
 {
   "name": "melt-studio",
   "displayName": "Melt Studio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Melt Studio's development pipeline, audits, PM suite and company checks, loaded from the meltctl connector. Requires an @meltstudio.co login.",
   "author": { "name": "Melt Studio" },
   "category": "developer-tools",

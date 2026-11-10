@@ -1,6 +1,6 @@
 ---
 name: melt-pm-plan-my-day
-description: Start-of-day orchestrator for a PM. Use when the PM says "plan my day", "what should I work on today", "what's on my plate", or starts their morning. Checks calendar and meltctl, closes the previous working day first if close-my-day was skipped, then builds one sequenced agenda from portfolio health, today's meetings, carried items, recent Changelog entries and stale Add-Task drafts, each tagged with the skill to run. Week-opener mode; holiday and OOO aware.
+description: Start-of-day orchestrator for a PM. Use when the PM says "plan my day", "what should I work on today", "what's on my plate", or starts their morning. Checks calendar and meltctl, closes the previous working day first if close-my-day was skipped, then builds one sequenced agenda from portfolio health, today's meetings, carried items, open PM Blockers, recent Changelog entries and stale Add-Task drafts, each tagged with the skill to run. Week-opener mode; holiday and OOO aware.
 ---
 
 # melt-pm-plan-my-day

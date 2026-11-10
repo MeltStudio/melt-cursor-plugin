@@ -1,6 +1,6 @@
 ---
 name: melt-pm-close-my-day
-description: End-of-day check for a PM. Use when the PM says "close my day", "wrap up", "end-of-day check", "what didn't I get to", or finishes their day. Reads back the morning's plan and checks what got done, blocked or slipped, confirms every client meeting today was processed (recap and Changelog), reviews the team's tracker activity and client Slack for unhandled items, drafts the end-of-day client-asks digest, and on the last working day of the week checks next sprint's readiness.
+description: End-of-day check for a PM. Use when the PM says "close my day", "wrap up", "end-of-day check", "what didn't I get to", or finishes their day. Reads back the morning's plan and checks what got done, blocked or slipped, confirms every client meeting today was processed (recap and Changelog), reviews tracker activity and client Slack for unhandled items, helps close PM Blockers with notes, drafts the client-asks digest, and on the week's last working day checks next sprint's readiness.
 ---
 
 # melt-pm-close-my-day
